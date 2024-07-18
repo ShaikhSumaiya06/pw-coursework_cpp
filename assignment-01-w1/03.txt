@@ -1,0 +1,28 @@
+q3)How much space does the following data types takes?
+int, bool, float
+
+soln:
+1.int --> 32 bits (4 bytes)
+2.bool --> 8 bits (1 byte)
+3.float --> 32 bits (4 bytes)
+
+q4)What is the output of this program?
+void main(){
+    int a=4;
+    int b=5;
+    a++,b--;
+    cout<<++a<<" " <<b--;
+}
+
+soln : 6 4
+
+q6) How many of these can be a variable name?
+01Pwskills
+_FLOAT
+int
+FLOAT 
+You will succeed
+
+soln: only 2 
+1. _FLOAT
+2. FLOAT 
